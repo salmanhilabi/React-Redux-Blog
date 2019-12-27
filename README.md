@@ -7,4 +7,4 @@ Try the App https://salmanhilabi.github.io/React-Redux-Blog/#/
 
 ## Note
 
-This App is not a production level app because here we're using redux, In production app server sidde programming and database will be needed 
+This App is not a production level app because here we're using redux, In production app server side programming and database will be needed 
